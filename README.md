@@ -6,7 +6,7 @@
 
 我们提出的 **MSCA (Multi-Scale Cyclic Attention)** 模块是一种即插即用的特征增强插件，旨在显著提升多种深度学习模型在电池剩余使用寿命（RUL）预测任务上的性能。
 
-![MSCA框架图]<img width="472" height="645" alt="image" src="https://github.com/user-attachments/assets/834b66c3-2ea6-48a3-8395-c8c13fe83073" />
+[MSCA框架图]<img width="472" height="645" alt="image" src="https://github.com/user-attachments/assets/834b66c3-2ea6-48a3-8395-c8c13fe83073" />
 
 
 ---
