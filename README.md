@@ -28,6 +28,7 @@
 
 ```bash
 python run.py --model MSCAMLP --data battery --features M --seq_len 100 --pred_len 0 --e_layers 2 --d_layers 1 --factor 3 --enc_in 900 --dec_in 900 --c_in 3 --d_model 512 --d_ff 512 --des 'Exp' --itr 1
+```
 
 ---
 
