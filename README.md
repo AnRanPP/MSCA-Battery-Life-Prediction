@@ -49,5 +49,5 @@ python run.py --model MSCAMLP --data battery --features M --seq_len 100 --pred_l
 
 本项工作的完成离不开以下优秀的开源项目和数据集，在此向原作者表示感谢：
 
-BatteryLife Benchmark
-Time-Series-Library
+- [BatteryLife](https://github.com/Ruifeng-Tan/BatteryLife)
+- [BatteryML](https://github.com/microsoft/BatteryML)
