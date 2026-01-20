@@ -35,10 +35,10 @@ python run.py --model MSCAMLP --data battery --features M --seq_len 100 --pred_l
 ## 📈 主要结果
 
 我们的MSCA-MLP模型在综合基准测试中取得了领先的性能。
-
-- 模型	              MAPE 	    15%-Acc (%)   10%-Acc (%) 
-- MLP	                0.1773	  59.73	        47.25
-- MSCA-MLP (本文方法)	0.1789	  65.51	        50.34
+-
+模型	              MAPE 	    15%-Acc (%)   10%-Acc (%)
+MLP	                0.1773	  59.73	        47.25
+MSCA-MLP (本文方法)	0.1789	  65.51	        50.34
 ...	...	...	...
 更详细的实验结果，包括消融实验和与其他骨干网络的结合效果，请参阅我们的论文。
 
