@@ -1,10 +1,10 @@
 # MSCA-Battery-Life-Prediction
-论文《基于MSCA插件的锂电池寿命预测方法》的官方PyTorch实现。(MSCA: 多尺度循环注意力模块)
+论文《基于MSCA插件的锂电池寿命预测方法》的官方PyTorch实现。
 # MSCA: 一种用于电池寿命预测的即插即用多尺度循环注意力模块
 
 本仓库是论文 **《基于MSCA插件的锂电池寿命预测方法》** 的官方PyTorch实现。
 
-我们提出的 **MSCA (Multi-Scale Cyclic Attention)** 模块是一种即插即用的特征增强插件，旨在显著提升多种深度学习模型在电池剩余使用寿命（RUL）预测任务上的性能。
+我们提出的 **MSCA (Multi-Scale Cyclic Attention, 多尺度循环注意力模块)** 模块是一种即插即用的特征增强插件，旨在显著提升多种深度学习模型在电池剩余使用寿命（RUL）预测任务上的性能。
 
 <p align="center">
   <img width="472" height="645" alt="image" src="https://github.com/user-attachments/assets/834b66c3-2ea6-48a3-8395-c8c13fe83073" />
